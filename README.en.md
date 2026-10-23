@@ -28,7 +28,7 @@ Use the `中 / EN` switch in the top-right corner at any time. The choice is sto
 
 ## Run it
 
-**Prebuilt**: double-click `HungryPanda.app` (a universal binary — Apple Silicon and Intel).
+**Download**: grab `HungryPanda-1.0-macOS.zip` from [Releases](https://github.com/ruixi1800/hungry-panda-ui/releases/latest), unzip it and double-click `HungryPanda.app` (a universal binary — Apple Silicon and Intel).
 
 > If macOS says the developer cannot be verified, right-click the app → **Open**. The app is ad-hoc signed and not notarized.
 

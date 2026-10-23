@@ -27,7 +27,7 @@
 
 ## 运行
 
-**直接运行**：双击 `HungryPanda.app`（通用二进制，Apple Silicon / Intel 都可以）。
+**直接下载**：[Releases · hungry Panda UI 1.0](https://github.com/ruixi1800/hungry-panda-ui/releases/latest) → 下载 `HungryPanda-1.0-macOS.zip`，解压后双击 `HungryPanda.app`（通用二进制，Apple Silicon / Intel 都可以）。
 
 > 首次打开如果提示“无法验证开发者”，右键点击 App → **打开** 即可。App 是 ad-hoc 签名，没有公证。
 
