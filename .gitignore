@@ -1,0 +1,6 @@
+.build/
+HungryPanda.app/
+Resources/AppIcon.iconset/
+Resources/icon_1024.png
+.DS_Store
+*.zip
